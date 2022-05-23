@@ -1,6 +1,6 @@
 {
   "name": "azhariel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Business card for Renan Braga",
   "main": "index.js",
   "bin": "cli.js",
