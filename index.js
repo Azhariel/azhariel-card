@@ -27,5 +27,3 @@ export function writeInfo(infos){
     }
     }
 }
-
-writeInfo(data);
